@@ -8,10 +8,10 @@
             <div class="col-md-8">
                 <div class="row content">
                     <div class="panel-heading">
-                        <h1 class="red-text">Children's magician for hire in London</h1>
+                        <h1 class="red-text">Children magician for hire in London</h1>
                     </div>
                     <div class="panel-body">
-                        <img class="img-responsive center-block" src="{{ asset('images/child_magic.png') }}" width="712" height="229"
+                        <img class="img-responsive center-block" style="padding: 20px" src="{{ asset('images/child_magic_n.png') }}" width="712" height="229"
                              alt="london child magician">
                         <p>Russell's magic is a great choice for providing entertainment for children/kids. He has an
                             addictive personality and will bring a smile to every kids face with funny and interactive
@@ -29,15 +29,15 @@
                         <div class="row">
                             <div class="col-xs-8">
                                 <ul class="list_style">
-                                    <li><h4>Balloon's modelling</h4></li>
+                                    <li><h4>Live Rabbit</h4></li>
+                                    <li><h4>Babbles</h4></li>
+                                    <li><h4>Balloon Modelling</h4></li>
                                     <li><h4>Games</h4></li>
-                                    <li><h4>Live white rabbit</h4></li>
-                                    <li><h4>Disco Lighting</h4></li>
-                                    <li><h4>Bubbles</h4></li>
-                                    <li><h4>Chocolate fountain</h4></li>
-                                    <li><h4>Pop Corn</h4></li>
-                                    <li><h4>Candy floss</h4></li>
-                                    <li><h4>Smooth</h4></li>
+                                    <li><h4>LED Music Speaker System (PA) 160W 10" Bluetooth, Wireless Microphone</h4></li>
+                                    <li><h4>Smoke/Fog Machine 500W</h4></li>
+                                    <li><h4>Mini Disco Laser Projector Lighting</h4></li>
+                                    <li><h4>2 Pcs Sperking Firework Lighting Fountain System For Wedding Stage</h4></li>
+                                    <li><h4>Chocolate Fountain depending on demand</h4></li>
                                 </ul>
                             </div>
                             <div class="col-xs-4">

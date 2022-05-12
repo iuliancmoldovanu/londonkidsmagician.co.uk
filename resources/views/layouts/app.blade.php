@@ -36,7 +36,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#">Russell's Magic</a>
+                    <a class="navbar-brand" href="{{url('/')}}">Russell's Magic</a>
                 </div>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
@@ -48,22 +48,22 @@
                         </li>
                         <li>
                             <a href="{{url('/children')}}" class="{{ (Request::is('children')) ? 'active' : '' }}">
-                                Children
+                                Kids Magician
                             </a>
                         </li>
                         <li>
-                            <a href="{{url('/adults')}}" class="{{ (Request::is('adults')) ? 'active' : '' }}">
-                                Adults
+                             <a href="{{url('/adults')}}" class="{{ (Request::is('adults')) ? 'active' : '' }}">
+                                Adults Magician
                             </a>
                         </li>
                         <li>
                             <a href="{{url('/gallery')}}" class="{{ (Request::is('gallery')) ? 'active' : '' }}">
-                                Gallery
+                                Magician Gallery
                             </a>
                         </li>
                         <li>
                             <a href="{{url('/contact')}}" class="{{ (Request::is('contact')) ? 'active' : '' }}">
-                                Contact
+                                Contact Magician
                             </a>
                         </li>
                         <li>
